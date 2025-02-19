@@ -1,1 +1,1 @@
-frpc:latest
+snowdreamtech/frps:latest
