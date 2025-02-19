@@ -2,3 +2,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
 quay.io/prometheus/prometheus:v2.36.1
 quay.io/prometheus-operator/prometheus-config-reloader:v0.57.0
 python:3.11-slim 
+frpc:last
