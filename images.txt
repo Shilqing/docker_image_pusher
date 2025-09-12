@@ -1,1 +1,2 @@
 cloudreve/cloudreve:latest
+thtom/rustdesk-server:latest
