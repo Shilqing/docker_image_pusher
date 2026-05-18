@@ -1,3 +1,1 @@
-cloudreve/cloudreve:latest
-thtom/rustdesk-server:latest
-liangjw/kube-webhook-certgen:v1.1.1
+ghcr.io/k8snetworkplumbingwg/ovs-cni-plugin:6f8174b1a47c47657fe9e59fe448f2a452bb6960
