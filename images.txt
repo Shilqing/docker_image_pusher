@@ -1,1 +1,2 @@
-ghcr.io/k8snetworkplumbingwg/sriov-network-device-plugin:e6ead1e8f76a407783430ee2666b403db2d76f64
+ghcr.m.daocloud.io/mellanox/network-operator-init-container:v0.0.3
+nvcr.io/nvidia/mellanox/doca-driver:25.01-0.6.0.0-0-ubuntu22.04-amd64
