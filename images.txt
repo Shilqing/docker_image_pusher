@@ -1,1 +1,2 @@
-ghcr.io/k8snetworkplumbingwg/sriov-network-device-plugin:v3.9.0
+nvcr.io/nvidia/mellanox/sriov-network-operator:network-operator-25.1.0
+registry.k8s.io/nfd/node-feature-discovery:v0.17.0 
