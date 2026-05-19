@@ -1,1 +1,1 @@
-nvcr.io/nvidia/cloud-native/network-operator:v25.1.0
+registry.k8s.io/nfd/node-feature-discovery:v0.17.0 
