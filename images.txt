@@ -1,1 +1,1 @@
-ghcr.io/k8snetworkplumbingwg/rdma-cni
+ghcr.io/k8snetworkplumbingwg/sriov-network-device-plugin:v3.9.0
